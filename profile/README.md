@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://gloc.al?utm_content=glocalteammate&utm_medium=web&utm_source=github.com" 
 		target="_blank" rel="dofollow">
-  <img src="https://github.com/gloc-al/.github/blob/main/Glocal_Demo_ShareOwner-EU.jpg" width="100%" title="B2B SaaS GLOC.AL SEO help businesses generate leads on local and foreign markets. GLOC.AL strategy through Serverless Tech" alt="Example of GLOC.AL ONE SEO Bestseller 90 languages and 100 countries through unique Serverless Tech Network" description="B2B SaaS GLOC.AL SEO help businesses generate leads on local and foreign markets. GLOC.AL strategy through Serverless Tech. Example of GLOC.AL ONE SEO Bestseller 90 languages and 100 countries through unique Serverless Tech Network.">
+  <img src="https://github.com/gloc-al/.github/blob/main/glocal_demo.gif" width="100%" title="B2B SaaS GLOC.AL SEO help businesses generate leads on local and foreign markets. GLOC.AL strategy through Serverless Tech" alt="Example of GLOC.AL ONE SEO Bestseller 90 languages and 100 countries through unique Serverless Tech Network" description="B2B SaaS GLOC.AL SEO help businesses generate leads on local and foreign markets. GLOC.AL strategy through Serverless Tech. Example of GLOC.AL ONE SEO Bestseller 90 languages and 100 countries through unique Serverless Tech Network.">
   <a/>
 </p>
 <p>
