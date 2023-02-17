@@ -30,6 +30,5 @@ Hello everybody and thank you for E-Meet of <a href="https://gloc.al?utm_content
 		rel="dofollow">
 		GLOC.AL
 		<a/>
-		90 languages and 100 countries through unique Serverless Tech Network (in billions of electronical devices on the planet earth, 
-"Workers V8 Isolate in Chromium")
+		Shortly: Glocal ONE is Multilingual-SEO-As-A-Service Tool for Businesses Worldwide. 88+ languages. 100+ countries with lowest ping ever min 50ms (Serverless Tech Network in 275+ biggest cities in the world connected to the fastest internet plus Starlink from Elon Musk) Details about the technology & business benefits: Easily implemented MyGlocal FZ-LLC (c) “SKUs multiplier” in Shopify, Magento, WordPress, Wix, Tilda, WebFlow, Squarespace, GoDaddy, WooCommerce, BigCommerce, Drupal and more.
 </h2>
