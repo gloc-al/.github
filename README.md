@@ -4,7 +4,24 @@
 
 **[Join the Revolution](#join-us) | [Invest in the Future](#invest) | [Support Our Mission](#support) | [Contribute to Open Source](#contribute)**
 
-[English](#english) | [中文](#chinese) | [हिंदी](#hindi) | [العربية](#arabic) | [Français](#french) | [Deutsch](#german) | [Русский](#russian) | [Español](#spanish)
+[Overview](#overview) | [Languages](#languages) | [Get Involved](#get-involved)
+
+## Table of Contents
+- [Overview](#overview)
+- [Languages](#languages)
+  - [English](#english)
+  - [中文 (Chinese)](#chinese)
+  - [हिंदी (Hindi)](#hindi)
+  - [العربية (Arabic)](#arabic)
+  - [Русский (Russian)](#russian)
+  - [Français (French)](#french)
+  - [Deutsch (German)](#german)
+  - [Español (Spanish)](#spanish)
+- [Get Involved](#get-involved)
+  - [Join Us](#join-us)
+  - [Invest in the Future](#invest)
+  - [Support Our Mission](#support)
+  - [Contribute to Open Source](#contribute)
 
 <div align="center">
   <a href="https://gloc.al?utm_content=glocalteammate&utm_medium=web&utm_source=github.com" target="_blank" rel="dofollow">
