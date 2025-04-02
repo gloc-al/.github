@@ -4,7 +4,7 @@
 
 
 
-**[Join the Revolution](#join-us) | [Invest in the Future](#invest) | [Support Our Mission](#support) | [Contribute to Open Source](#contribute)**
+**[Join the Revolution](#join-us) | [Invest in the Future](#invest), [Join GLOCAL SEO Platform 30+ investors](#investors) | [Support Our Mission](#support) | [Contribute to Open Source](#contribute)**
 
 [Overview](#overview) | [Languages](#languages) | [Get Involved](#get-involved)
 
@@ -36,7 +36,7 @@
 
 **ICANN Licensed TLD Ownership:** GLOC.AL is actively pursuing and holds licenses for specific Top-Level Domains (TLDs) to enhance our global SEO capabilities and provide unique branding opportunities for our clients.  This allows us to offer highly targeted and localized domain solutions.
 
-## English {#english}
+## English
 
 ### 🌐 GLOC.AL ONE: Reimagine Multilingual SEO
 
@@ -653,5 +653,14 @@ Soon will be marked up with checkboxes of implementations as well as inspiration
 > 🤖 **AI Integration**: Leveraging latest LLM technologies for content optimization.
 
 For more information, visit [GLOC.AL](https://gloc.al?utm_content=readme&utm_medium=github&utm_source=github.com)
+
+
+## invest 
+
+(writing offer with current situation and ability to invest throgh smart contract and as before through SAFE)
+
+## investors 
+
+(collecting existed investors list)
 
 
