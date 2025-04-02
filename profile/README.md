@@ -2,6 +2,8 @@
 
 [![GLOC.AL GitHub Views](https://komarev.com/ghpvc/?username=gloc-al&label=GLOCAL%20GITHUB%20VIEWS&color=blueviolet&style=flat-square)](https://GLOC.AL?utm_content=githubhead&utm_medium=social&utm_source=github.com)
 
+
+
 **[Join the Revolution](#join-us) | [Invest in the Future](#invest) | [Support Our Mission](#support) | [Contribute to Open Source](#contribute)**
 
 [Overview](#overview) | [Languages](#languages) | [Get Involved](#get-involved)
@@ -570,73 +572,77 @@ Wir fühlen uns den Open-Source-Prinzipien verpflichtet und glauben an die Kraft
 
 
 
-### CDN implementation in GLOCAL SEO Platform
+### CDN implementation in GLOCAL SEO Platform (2025 In Progress...)
 
-ajax.aspnetcdn.com
-ajax.cloudflare.com
-ajax.googleapis.com
-ajax.loli.net
-ajax.loli.net.cdn.cloudflare.net
-ajax.microsoft.com
-ajax.proxy.ustclug.org
-akamai-webcdn.kgstatic.net
-akamai-webcdn.kgstatic.net.edgesuite.net
-apps.bdimg.com
-apps.bdimg.jomodns.com
-cdn.bootcdn.net
-cdn.bootcdn.net.maoyundns.com
-cdn.bootcss.com
-cdn.bootcss.com.maoyundns.com
-cdn.datatables.net
-cdn.embed.ly
-cdn.embed.ly.cdn.cloudflare.net
-cdnjs.cloudflare.com
-cdn.jsdelivr.net
-cdn.jsdelivr.net.cdn.cloudflare.net
-cdnjs.loli.net
-cdnjs.loli.net.cdn.cloudflare.net
-cdn.materialdesignicons.com
-cdn.mathjax.org
-cdn.plyr.io
-cdn.ravenjs.com
-cdn.staticfile.org
-cds.s5x3j6q5.hwcdn.net
-code.jquery.com
-developer.n.shifen.com
-dualstack.osff.map.fastly.net
-fonts.googleapis.com
-fonts.gstatic.com
-fonts.loli.net
-fonts.loli.net.cdn.cloudflare.net
-gateway.cname.ustclug.org
-gitcdn.github.io
-gstaticadssl.l.google.com
-iduwdjf.qiniudns.com
-js.appboycdn.com
-lb.sae.sina.com.cn
-lib.baomitu.com
-lib.baomitu.com.qh-cdn.com
-libs.baidu.com
-lib.sinaapp.com
-mat1.gtimg.com
-mat1.gtimg.com.tegsea.tc.qq.com
-materialdesignicons.b-cdn.net
-mathjax.rstudio.com
-maxcdn.bootstrapcdn.com
-mscomajax.vo.msecnd.net
-netdna.bootstrapcdn.com
-pagecdn.io
-sdn.geekzu.org
-sdn.inbond.gslb.geekzu.org
-stackpath.bootstrapcdn.com
-unpkg.com
-upcdn.b0.upaiyun.com
-use.fontawesome.com
-use.fontawesome.com.cdn.cloudflare.net
-vjs.zencdn.net
-vo.aicdn.com
-yandex.st
-yastatic.net
+Soon will be marked up with checkboxes of implementations as well as inspiration from best practises at https://github.com/StackExchange/dnscontrol contributors, withouth copy of code, only with insighths through latest LLMs:
+
+| CDN | Description |
+|-----|-------------|
+| ajax.aspnetcdn.com | Microsoft's ASP.NET CDN for common JavaScript libraries |
+| ajax.cloudflare.com | Cloudflare's CDN service for Ajax libraries |
+| ajax.googleapis.com | Google's CDN for popular JavaScript libraries |
+| ajax.loli.net | Chinese mirror of various Ajax libraries |
+| ajax.loli.net.cdn.cloudflare.net | Cloudflare-backed mirror of loli.net Ajax libraries |
+| ajax.microsoft.com | Microsoft's CDN for Ajax libraries |
+| ajax.proxy.ustclug.org | USTC Linux User Group proxy for Ajax libraries |
+| akamai-webcdn.kgstatic.net | Akamai CDN instance for KG static content |
+| akamai-webcdn.kgstatic.net.edgesuite.net | Edge service for Akamai KG static content |
+| apps.bdimg.com | Baidu's CDN for application resources |
+| apps.bdimg.jomodns.com | Jomo DNS version of Baidu's app resources |
+| cdn.bootcdn.net | BootCDN service for frontend libraries |
+| cdn.bootcdn.net.maoyundns.com | MaoYun DNS version of BootCDN |
+| cdn.bootcss.com | Bootstrap and related CSS libraries CDN |
+| cdn.bootcss.com.maoyundns.com | MaoYun DNS version of BootCSS CDN |
+| cdn.datatables.net | Official CDN for DataTables library |
+| cdn.embed.ly | Embedly service CDN for embed content |
+| cdn.embed.ly.cdn.cloudflare.net | Cloudflare-backed mirror of Embedly CDN |
+| cdnjs.cloudflare.com | Cloudflare's popular open-source CDN |
+| cdn.jsdelivr.net | Multi-CDN service for npm, GitHub, and WordPress |
+| cdn.jsdelivr.net.cdn.cloudflare.net | Cloudflare-backed mirror of jsDelivr |
+| cdnjs.loli.net | Chinese mirror of cdnjs |
+| cdnjs.loli.net.cdn.cloudflare.net | Cloudflare-backed mirror of loli.net cdnjs |
+| cdn.materialdesignicons.com | CDN for Material Design Icons |
+| cdn.mathjax.org | Legacy CDN for MathJax (now deprecated) |
+| cdn.plyr.io | CDN for the Plyr media player |
+| cdn.ravenjs.com | CDN for Raven.js (Sentry client) |
+| cdn.staticfile.org | Chinese public CDN for open source projects |
+| cds.s5x3j6q5.hwcdn.net | Highwinds CDN service |
+| code.jquery.com | Official jQuery CDN |
+| developer.n.shifen.com | Baidu's developer resources CDN |
+| dualstack.osff.map.fastly.net | Fastly dual-stack CDN service |
+| fonts.googleapis.com | Google Fonts API service |
+| fonts.gstatic.com | Google's static content for fonts |
+| fonts.loli.net | Chinese mirror for Google Fonts |
+| fonts.loli.net.cdn.cloudflare.net | Cloudflare-backed mirror of loli.net fonts |
+| gateway.cname.ustclug.org | USTC Linux User Group CDN gateway |
+| gitcdn.github.io | CDN for GitHub content |
+| gstaticadssl.l.google.com | Google's SSL static content CDN |
+| iduwdjf.qiniudns.com | Qiniu CDN service instance |
+| js.appboycdn.com | Appboy/Braze JavaScript resources CDN |
+| lb.sae.sina.com.cn | Sina App Engine load balancer CDN |
+| lib.baomitu.com | 360's open source library CDN |
+| lib.baomitu.com.qh-cdn.com | QH CDN version of 360's library CDN |
+| libs.baidu.com | Baidu's libraries CDN |
+| lib.sinaapp.com | Sina App Engine library CDN |
+| mat1.gtimg.com | Tencent's static material CDN |
+| mat1.gtimg.com.tegsea.tc.qq.com | Tencent extended CDN service |
+| materialdesignicons.b-cdn.net | BunnyCDN for Material Design Icons |
+| mathjax.rstudio.com | RStudio's MathJax CDN |
+| maxcdn.bootstrapcdn.com | MaxCDN for Bootstrap resources |
+| mscomajax.vo.msecnd.net | Microsoft's Edge Network for Ajax |
+| netdna.bootstrapcdn.com | NetDNA (now MaxCDN) for Bootstrap |
+| pagecdn.io | Global CDN service for web libraries |
+| sdn.geekzu.org | GeekZu's static domain network CDN |
+| sdn.inbond.gslb.geekzu.org | GeekZu's global server load balancing CDN |
+| stackpath.bootstrapcdn.com | StackPath CDN for Bootstrap resources |
+| unpkg.com | CDN for everything on npm |
+| upcdn.b0.upaiyun.com | Upyun CDN service |
+| use.fontawesome.com | Font Awesome official CDN |
+| use.fontawesome.com.cdn.cloudflare.net | Cloudflare-backed mirror of Font Awesome |
+| vjs.zencdn.net | Video.js CDN |
+| vo.aicdn.com | Upyun's VOD CDN service |
+| yandex.st | Yandex static content CDN |
+| yastatic.net | Yandex's frontend assets CDN |
 
 </div>
 
