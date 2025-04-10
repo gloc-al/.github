@@ -1,10 +1,18 @@
-# GLOC.AL - The Future of Global-Local SEO & Content Distribution
+# GLOC.AL - The Future of Global-Local SEO & Content Distribution (ex-in5DUBAI, winner of NexTech GLOBAL MEDIA CONGESS Abu Dhabi)
+
+GLOCAL is Pain Killer! 95% of content online and searchable on English, 95% of people in internet BUYing on THEIR NATIVE LANGUAGE! 5% on all more old and emergent languages is not searchable and people have a lot of troubles around it, from searching drugs in other country to searching local cultural information for better understanding of places that they entering with business and for passion!
+
+![glocal-growth-is-coming](https://github.com/user-attachments/assets/fa6d635f-cb90-4726-a005-3ac7847f6b81)
+
+for business angels who read all this HUGE page and ONLY AFTER IT, decide to go with us in WEEKLY GROWTH in this well developed market, you may to join by commiting resources.
 
 [![GLOC.AL GitHub Views](https://komarev.com/ghpvc/?username=gloc-al&label=GLOCAL%20GITHUB%20VIEWS&color=blueviolet&style=flat-square)](https://GLOC.AL?utm_content=githubhead&utm_medium=social&utm_source=github.com)
 
 **[Join the Revolution](#join-us) | [Invest in the Future](#invest), [Join GLOCAL SEO Platform 30+ investors](#investors) | [Support Our Mission](#support) | [Contribute to Open Source](#contribute)**
 
 [Overview](#overview) | [Languages](#languages) | [Get Involved](#get-involved)
+
+[![Watch the Video with Olga Nayda](https://img.youtube.com/vi/48Ph70YmYlE/maxresdefault.jpg)](https://www.youtube.com/watch?v=48Ph70YmYlE)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -35,6 +43,8 @@
 # Languages
 
 Auto updated table with information from open sources will be available on website /LANGUAGES-FOR-INTERNATIONAL-BUSINESS etc, more info is coming... 
+
+![glocal-lenguages-better-than-english](https://github.com/user-attachments/assets/356d60c6-d6fb-4ccf-8344-688916e85d29)
 
 ## **Top 200 Most Spoken Languages (2025)**  
 *(Sorted by total speakers, in millions)*  
@@ -855,7 +865,7 @@ For a full breakdown of token costs, try the [LLM Pricing Calculator](https://yo
 
 **ICANN Licensed TLD Ownership:** GLOC.AL is actively pursuing and holds licenses for specific Top-Level Domains (TLDs) to enhance our global SEO capabilities and provide unique branding opportunities for our clients.  This allows us to offer highly targeted and localized domain solutions.
 
-## English {#english}
+# English
 
 ### 🌐 GLOC.AL ONE: Reimagine Multilingual SEO
 
@@ -940,7 +950,7 @@ We're committed to open-source principles and believe in the power of collaborat
 *   **Reporting issues:**  Help us identify and resolve any problems.
 *   **Joining our community forum:**  Connect with other contributors and share your ideas. (Link to forum if applicable)
 
-## 中文 {#chinese}
+# chinese
 
 ### 🌐 GLOC.AL ONE: 重新构想多语言SEO
 
@@ -1012,7 +1022,7 @@ GLOC.AL 正在寻找与我们一样希望建立一个更互联、更易访问的
 *   **报告问题：** 帮助我们识别和解决任何问题。
 *   **加入我们的社区论坛：** 与其他贡献者联系并分享您的想法。 （如果适用，链接到论坛）
 
-## हिंदी {#hindi}
+# hindi
 
 ### 🌐 GLOC.AL ONE: बहुभाषी SEO को नई दिशा
 
@@ -1084,7 +1094,7 @@ GLOC.AL रणनीतिक निवेशकों की तलाश क�
 *   **समस्याओं की रिपोर्ट करना:** किसी भी समस्या को पहचानने और हल करने में हमारी सहायता करें।
 *   **हमारे सामुदायिक मंच में शामिल होना:** अन्य योगदानकर्ताओं के साथ जुड़ें और अपने विचार साझा करें। (यदि लागू हो तो मंच से लिंक करें)
 
-## العربية {#arabic}
+# arabic
 
 ### 🌐 GLOC.AL ONE:  إعادة تصور السيو متعدد اللغات
 
@@ -1159,7 +1169,7 @@ GLOC.AL रणनीतिक निवेशकों की तलाश क�
 
 
 
-## Русский {#russian}
+# russian
 
 ### 🌐 GLOC.AL ONE: Переосмысление мультиязычного SEO
 
@@ -1750,6 +1760,22 @@ This comprehensive approach ensures a scalable, SEO-optimized solution for dynam
 
 ## investors 
 
+Who are the investors? List below the video. We collected more than 40k$ in USD from retail investors and 100k$+ in our own money we side hustle in this business since 2022 we building and will continue.
+
+[![Watch the Video with Olga Nayda and Regolith.com USA Partner](https://img.youtube.com/vi/bvBIAAW7W7I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bvBIAAW7W7I)
+
+[Retail Investment Platform Regolith.com Investors Of which invested under $8.5M valuation in Glocal SEO Platform](https://regolith.com/cabinet/offers/detail/glocal/startup).
+
 (collecting existed investors list)
+
+### Business & Life "YES WE CAN!" Community SOYUZNIKI by Alex Butmanov
+
+### Investment by Tony Fitch Team
+
+
+
+### Investment by Vlad Poliyakov
+
+5% for $50,000 foes to early CTO mr [Vlad Poliyakov](https://github.com/polRk)
 
 
