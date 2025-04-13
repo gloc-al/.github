@@ -1770,12 +1770,24 @@ Who are the investors? List below the video. We collected more than 40k$ in USD 
 
 ### Business & Life "YES WE CAN!" Community SOYUZNIKI by Alex Butmanov
 
-### Investment by Tony Fitch Team
+### Investment by CTO Tony Fitch Team
 
-
-
-### Investment by Vlad Poliyakov
+### Investment by CTO Vlad Poliyakov
 
 5% for $50,000 foes to early CTO mr [Vlad Poliyakov](https://github.com/polRk)
+
+### Investment by Vasilii Zakharov
+
+Vasilii Zakharov invested into GLOCAL SEO Platform under USD $8.5 million valuation.
+
+![vasilii_zakharov](https://github.com/user-attachments/assets/f8433ee8-24b0-413f-b73e-159884d88abb)
+
+[Vasilii Zakhariv - director of IRBR.ru international DevOps company from Russia](https://irbr.ru/).
+
+### Investment by business Angel Ilya Krivorot
+
+Ilya Krivorot in 2022 after our "indian incident" [the text of those part of pre-GLOCAL company under development by Aleksei Dolgikh) 
+
+
 
 
